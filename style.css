@@ -1,0 +1,29 @@
+.char-style {
+  position: absolute;
+  z-index: 2;
+}
+
+.status-style {
+  position: absolute;
+  font-size: 15px;
+  top: 0px;
+  z-index: 2;
+  color: FireBrick;
+}
+
+.instructions-style {
+  position: absolute;
+  font-size: 15px;
+  font-style: italic;
+  top: 0px;
+  z-index: 2;
+  color: Navy;
+}
+
+.home-style {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  background-color: CornflowerBlue;
+  z-index: 1;
+}
